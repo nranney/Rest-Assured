@@ -1,0 +1,7 @@
+# Ignore all target and test-output directories
+target/**
+test-output/**
+.idea/**
+
+# Ignore .iml file
+*.iml
